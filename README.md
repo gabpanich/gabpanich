@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Gabriel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning to code with #100Devs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there, I'm **Gabriel**
+By day, I produce technical drawings for Architectural and Engineering projects of all types, using CAD and BIM software
+
+By night, I'm coding my way into Software Development
+
+By every other hour, you can find me skiing, cycling, or playing video games!
 
 <!---
 gabpanich/gabpanich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
