@@ -1,8 +1,8 @@
-Hi there, I'm **Gabriel**
+Hi there, I'm **Gabriel** 👋
 
-By day, I produce technical drawings for Architectural and Engineering projects of all types, using CAD and BIM software
+By day, I produce technical drawings for Architectural and Engineering projects of all types, using CAD and BIM software 📐
 
-By night, I'm coding my way into Software Development
+By night, I'm coding my way into Software Development 👨‍💻
 
 By every other hour, you can find me skiing, cycling, or playing video games!
 
