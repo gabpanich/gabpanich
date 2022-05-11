@@ -34,11 +34,11 @@
 <a href="https://www.autodesk.ca/en/products/revit/overview" target="_blank" rel="noreferrer"> <img src="https://imgur.com/kmClrTS.png" alt="Revit" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a></p>
-  
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpanich&show_icons=true&locale=en&layout=compact" alt="gpanich" /></p>
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=gpanich&show_icons=true&locale=en" alt="gpanich" /></p>
- 
+<br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gpanich&" alt="gpanich" /></p>
 
 <!---
