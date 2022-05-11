@@ -9,7 +9,7 @@
 
 - ⚡ Fun facts: 
                <br> By day, I produce technical drawings for architectural and building engineering projects of all types, using CAD and BIM software 📐
-               <br> By night, I'm coding my way into Software Development 👨‍💻
+               <br> By night, I'm coding my way into Software Development 💻
                <br> By every other hour, you can find me skiing, cycling, or playing video games!
 
 - 👨‍💻 My portfolio is available at [gpanich.netlify.app](https://gpanich.netlify.app/)
@@ -33,10 +33,11 @@
   <a href="https://www.autodesk.ca/en/products/autocad/overview" target="_blank" rel="noreferrer"> <img src="https://imgur.com/MOy3750.png" alt="AutoCAD" width="40" height="40"/> </a>
 <a href="https://www.autodesk.ca/en/products/revit/overview" target="_blank" rel="noreferrer"> <img src="https://imgur.com/kmClrTS.png" alt="Revit" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpanich&show_icons=true&locale=en&layout=compact" alt="gpanich" /></p>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gpanich&show_icons=true&locale=en" alt="gpanich" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gpanich&" alt="gpanich" /></p>
+<p>&nbsp;<img align="left" padding-right="13px" src="https://github-readme-stats.vercel.app/api?username=gpanich&show_icons=true&locale=en" alt="gpanich" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gpanich&" alt="gpanich" /></p>
+
+<img align="bottom-left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpanich&show_icons=true&locale=en&layout=compact" alt="gpanich" />
 
 <!---
 gabpanich/gabpanich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
