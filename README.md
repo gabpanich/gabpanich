@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A passionate Full-Stack Software Developer from Canada</h3>
+<h3 align="center">A passionate Full-Stack Software Developer and Architectural Technologist from Canada</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gpanich" alt="gpanich" /></a> </p>
 
@@ -7,9 +7,12 @@
 
 - 💬 Ask me about **CAD, BIM, JavaScript, CSS, HTML**
 
-- ⚡ Fun fact: By day, I produce technical drawings for Architectural and building Engineering projects of all types, using CAD and BIM software 📐. By night, I'm coding my way into Software Development 👨‍💻. By every other hour, you can find me skiing, cycling, or playing video games!
+- ⚡ Fun facts: 
+               <br> By day, I produce technical drawings for architectural and building engineering projects of all types, using CAD and BIM software 📐
+               <br> By night, I'm coding my way into Software Development 👨‍💻
+               <br> By every other hour, you can find me skiing, cycling, or playing video games!
 
-- 👨‍💻 All of my projects are available at [https://gpanich.netlify.app/](https://gpanich.netlify.app/)
+- 👨‍💻 My portfolio is available at [gpanich.netlify.app](https://gpanich.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,25 +30,15 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a></p>
+  <a href="https://www.autodesk.ca/en/products/autocad/overview" target="_blank" rel="noreferrer"> <img src="https://imgur.com/MOy3750.png" alt="AutoCAD" width="40" height="40"/> </a>
+<a href="https://www.autodesk.ca/en/products/revit/overview" target="_blank" rel="noreferrer"> <img src="https://imgur.com/kmClrTS.png" alt="Revit" width="40" height="40"/> </a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpanich&show_icons=true&locale=en&layout=compact" alt="gpanich" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpanich&show_icons=true&locale=en&layout=compact" alt="gpanich" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gpanich&show_icons=true&locale=en" alt="gpanich" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gpanich&" alt="gpanich" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gpanich&show_icons=true&locale=en" alt="gpanich" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gpanich&" alt="gpanich" /></p>
 
 <!---
-Hi there, I'm **Gabriel** 👋
-
-By day, I produce technical drawings for Architectural and Engineering projects of all types, using CAD and BIM software 📐
-
-By night, I'm coding my way into Software Development 👨‍💻
-
-By every other hour, you can find me skiing, cycling, or playing video games!
-
-
 gabpanich/gabpanich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
