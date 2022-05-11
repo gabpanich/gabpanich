@@ -39,7 +39,7 @@
  
 <br><p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gpanich&" alt="gpanich" /></p>
 
-<img align="bottom-left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpanich&show_icons=true&locale=en&layout=compact" alt="gpanich" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpanich&show_icons=true&locale=en&layout=compact" alt="gpanich" /></p>
 
 <!---
 gabpanich/gabpanich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
