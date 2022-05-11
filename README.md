@@ -8,7 +8,7 @@
 - 💬 Ask me about **CAD, BIM, JavaScript, CSS, HTML**
 
 - ⚡ Fun facts: 
-               <br> By day, I produce technical drawings for architectural and building engineering projects of all types, using CAD and BIM software 📐
+               <br> By day, I produce technical drawings for architectural and engineering projects of all types, using CAD and BIM software 📐
                <br> By night, I'm coding my way into Software Development 👨‍💻
                <br> By every other hour, you can find me skiing, cycling, or playing video games!
 
