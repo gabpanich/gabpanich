@@ -1,25 +1,19 @@
-<h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A passionate Full-Stack Software Developer and Architectural Technologist from Canada</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gpanich" alt="gpanich" /></a> </p>
+<h2 align="left">Hi, I'm Gabriel👋</h2>
+<h4 align="left">I'm a passionate Full-Stack Software Developer and Architectural Technologist from Canada</h4>
+//
 
 - 🌱 I’m currently learning **JavaScript, React, Node.JS, MongoDB**
 
-- 💬 Ask me about **CAD, BIM, JavaScript, CSS, HTML**
+- 💬 Ask me about **JavaScript, CSS, HTML, CAD/BIM**
 
 - ⚡ Fun facts: 
                <br> By day, I produce technical drawings for architectural and engineering projects of all types, using CAD and BIM software 📐
                <br> By night, I'm coding my way into Software Development 👨‍💻
                <br> By every other hour, you can find me skiing, cycling, or playing video games!
-
+               
+- ➕ Connect on: [LinkedIn](https://linkedin.com/in/gpanich)
 - 📃 My portfolio is available at [gpanich.netlify.app](https://gpanich.netlify.app/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gpanich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gpanich" height="30" width="40" /></a>
-<a href="https://twitter.com/span888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="span888" height="30" width="40" /></a>
-<a href="https://codepen.io/gpanich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gpanich" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -37,9 +31,9 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpanich&show_icons=true&locale=en&layout=compact" alt="gpanich" /></p><br>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gpanich&show_icons=true&locale=en" alt="gpanich" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gpanich&show_icons=true&locale=en" alt="gpanich" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gpanich&" alt="gpanich" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gpanich&" alt="gpanich" /></p>
 
 <!---
 gabpanich/gabpanich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
