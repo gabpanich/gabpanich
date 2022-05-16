@@ -1,5 +1,5 @@
 <h2 align="left">Hi, I'm Gabriel👋</h2>
-<h4 align="left">I'm a passionate Full-Stack Software Developer and Architectural Technologist from Canada</h4>
+<h4 align="left">I'm a Full-Stack Software Developer and Architectural Technologist from the National Capital Region of Canada.</h4>
 //
 
 - 🌱 I’m currently learning **JavaScript, React, Node.JS, MongoDB**
@@ -11,7 +11,7 @@
                <br> By night, I'm coding my way into Software Development 👨‍💻
                <br> By every other hour, you can find me skiing, cycling, or playing video games!
                
-- ➕ Connect on: [LinkedIn](https://linkedin.com/in/gpanich)
+- 🚀 Connect on: [LinkedIn](https://linkedin.com/in/gpanich)
 - 📃 My portfolio is available at [gpanich.netlify.app](https://gpanich.netlify.app/)
 
 
@@ -30,10 +30,11 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpanich&show_icons=true&locale=en&layout=compact" alt="gpanich" /></p><br>
-<br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gpanich&show_icons=true&locale=en" alt="gpanich" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gpanich&" alt="gpanich" /></p>
+<br><p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gpanich&show_icons=true&locale=en" alt="gpanich" /></p><br>
+
+
+<br><p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gpanich&" alt="gpanich" /></p>
 
 <!---
 gabpanich/gabpanich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
