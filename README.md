@@ -1,6 +1,6 @@
 <img src='gpanich-banner4.JPG' height='220px'>
 
-<h2 align="left">Hi, I'm Gabriel👋</h2>
+<h2 align="left">Hi, I'm Gabriel 👻</h2>
 <h4 align="left">I'm a Full-Stack Software Developer and Architectural Technologist from the National Capital Region of Canada.</h4>
 //
 
